@@ -1,0 +1,16 @@
+datasets
+sentence-transformers
+faiss-cpu
+rank_bm25
+rouge-score
+transformers
+accelerate
+torch
+numpy
+pandas
+tqdm
+streamlit
+# Optional: only if you use a hosted LLM instead of the local Qwen model
+# langchain-core
+# langchain-google-genai
+# langchain-openai
